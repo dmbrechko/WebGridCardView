@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebGridCardView</string>
+    <string name="mobile_browser">Mobile browser</string>
+    <string name="exit">Exit</string>
+</resources>
